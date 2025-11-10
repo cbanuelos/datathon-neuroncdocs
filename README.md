@@ -2,8 +2,7 @@
 # Predict AI Health App  
 ### *An intelligent health journaling companion for personalized, predictive wellness.*
 
-#### neuroncdocs team
-#### Cristy Bañuelos, Harish Bayana, Maren Cukor, Zain Hussain, Taelor Matos 
+#### MD+ Datathon Neuroncdocs Team - Cristy Bañuelos, Harish Bayana, Maren Cukor, Zain Hussain, Taelor Matos 
 
 ---
 

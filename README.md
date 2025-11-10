@@ -79,4 +79,5 @@ Daily data is aggregated per user and enhanced with **rolling window features** 
 
 | Target | Description |
 |---------|--------------|
-| **Condition** | Predicts incidence of chronic or psychiatric conditions (e.g., Depression, Anxiety, Rheumatoid Arthritis, POTS
+| **Conditions** | Predicts incidence of chronic or psychiatric conditions (e.g., Depression, Anxiety, Rheumatoid Arthritis, POTS)
+| **Symptoms** | Predicts incidence of next day symptoms that underlie chronic or psychiatric conditions 

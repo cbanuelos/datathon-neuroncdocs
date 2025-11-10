@@ -15,6 +15,7 @@ They can freely journal about their **symptoms, mood, diet, triggers, sleep**, o
 The app automatically integrates this text data with **real-world contextual features** — such as **weather**, **time**, **date**, and optionally **wearable data** (e.g., heart rate, steps, sleep quality) — to create a holistic snapshot of each day’s health state.  
 
 
+![Predict AI App GUI](app_gui.png)
 
 ---
 
